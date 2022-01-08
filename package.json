@@ -1,0 +1,26 @@
+{
+  "name": "force-json-schema",
+  "version": "0.0.4",
+  "description": "schema enforcer for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoelshachar/force-json-schema.git"
+  },
+  "keywords": [
+    "json",
+    "schema"
+  ],
+  "author": "yoel shachar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoelshachar/force-json-schema/issues"
+  },
+  "homepage": "https://github.com/yoelshachar/force-json-schema#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
